@@ -1,0 +1,12 @@
+numpy==1.26.4
+pandas
+scipy==1.13.1
+matplotlib
+rasterio
+pyproj
+shapely
+trimesh==3.23.5
+pythermalcomfort
+solweig
+jupyter
+ipykernel
